@@ -1,6 +1,6 @@
 ## MANGO TESTNET AUTO BOT
 
-**Register** : [HERE](https://task.testnet.mangonetwork.io/?invite=d9q5MS)
+**Register** : [HERE](https://task.testnet.mangonetwork.io/?invite=Hkm9nF)
 
 - [Download Mango Wallet Extension](https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd)
 - Backup Phrase
