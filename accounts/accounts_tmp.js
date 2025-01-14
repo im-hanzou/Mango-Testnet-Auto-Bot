@@ -1,7 +1,7 @@
 /**
  * Accounts list file
  * write your accounts like this
- * export const accountLists = [
+ * export const accountList = [
  *     "MANGOPRIVKEY1",
  *     "MANGOPRIVKEY2",
  *     "MANGOPRIVKEY3",
